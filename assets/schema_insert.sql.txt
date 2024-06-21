@@ -1,0 +1,1 @@
+INSERT INTO blackjack(id, playerWins, computerWins, roundsPlayed) VALUES(?, ?, ?, ?);
